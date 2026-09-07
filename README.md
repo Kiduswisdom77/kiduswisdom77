@@ -109,7 +109,7 @@ Experience designing technology solutions across:
 
 ### Mobile
 
-`Flutter` · `Dart`
+`ReactNative` · `Flutter` · `Dart`
 
 ### Backend
 
@@ -258,6 +258,7 @@ I believe strong engineering is not only about knowing technologies, but about *
 # 📫 Connect With Me
 
 **Email:** [kidusjob@gmail.com](mailto:kidusjob@gmail.com)
+**Email:** [kiduswisdom77@gmail.com](mailto:kiduswisdom77@gmail.com)
 
 **GitHub:** https://github.com/kiduswisdom77
 
