@@ -1,126 +1,270 @@
 # KIDUS ATAKLTI BRIHANE
 
-### Senior Software Engineer | AI Systems | Full-Stack | Cloud & DevOps
+### Senior Software Engineer | AI Systems | Full-Stack | Mobile | Cloud & DevOps
 
-Building intelligent, scalable digital platforms that solve real-world
-problems in Africa and beyond.
-
----
-
-## About Me
-
-I am a Senior Software Engineer and technology professional with 10+ years
-of experience across software engineering, full-stack development, cloud
-infrastructure, DevOps, systems engineering, and technology leadership.
-
-My work focuses on building scalable software platforms, AI-powered systems,
-and digital solutions that connect technology with real-world business and
-societal challenges.
-
-I am particularly interested in:
-
-- Artificial Intelligence & AI Agents
-- Full-Stack & Distributed Systems
-- Cloud Computing & DevOps
-- Digital Transformation
-- E-Commerce & FinTech
-- Enterprise Automation
-- Scalable Software Architecture
-- Technology for Emerging Markets
+**Building scalable software systems, intelligent AI solutions, mobile applications, and cloud-native platforms for real-world problems.**
 
 ---
 
-## 🚀 Featured Projects
+## 👋 About Me
 
-### AI Sales Agent
-AI-powered sales and business automation platform designed to connect
-conversational AI with commerce and enterprise workflows.
+I am a **Senior Software Engineer and technology professional with 10+ years of experience** across software engineering, full-stack development, mobile application development, systems engineering, cloud infrastructure, DevOps, and technology leadership.
 
-**Focus:** AI Agents · LLMs · RAG · Tool Calling · E-Commerce · CRM · ERP
+I specialize in designing and building **scalable, reliable, secure, and maintainable software systems** across web, mobile, backend, AI, and cloud environments.
 
-### ETHIO.SHOP
-Modern digital commerce platform designed to connect customers, products,
-orders, payments, and business operations.
+My technical interests sit at the intersection of:
 
-**Focus:** Next.js · React · TypeScript · APIs · E-Commerce · Cloud
+**AI + Software Engineering + Mobile + Cloud + Digital Platforms + Business Automation**
 
-### Nano Digital Equb
-Digital platform concept for modernizing community-based savings through
-transparent digital management, payments, records, and financial workflows.
-
-**Focus:** FinTech · Digital Trust · Payments · Ledger · Risk Management
+I enjoy transforming complex ideas and real-world problems into **production-ready technology solutions**.
 
 ---
 
-## 🧠 Technology
+## 🧠 Core Expertise
 
-### Languages
-JavaScript · TypeScript · Python · PHP · SQL
+### Software Engineering
 
-### Frontend
-React · Next.js · Vite · Tailwind CSS
+* Full-Stack Web Application Development
+* Backend & API Engineering
+* Mobile Application Development
+* Distributed Systems
+* Scalable Software Architecture
+* Microservices Architecture
+* Event-Driven Systems
+* REST & GraphQL APIs
+* Authentication & Authorization
+* System Integration
+* Software Design & Development
+
+### 🤖 Artificial Intelligence
+
+* Large Language Models (LLMs)
+* AI Agents
+* Multi-Agent Systems
+* AI Agent Orchestration
+* Retrieval-Augmented Generation (RAG)
+* Tool Calling
+* AI-powered Automation
+* Machine Learning
+* Computer Vision
+* Vector Databases
+* AI + Business Systems
+
+### 📱 Mobile Engineering
+
+* Cross-Platform Mobile Development
+* Flutter
+* Dart
+* Mobile Application Architecture
+* REST API Integration
+* Authentication
+* State Management
+* Push Notifications
+* Offline-First Applications
+* Mobile Performance Optimization
+* Web + Mobile Application Ecosystems
+
+### ☁️ Cloud & DevOps
+
+* Cloud-Native Architecture
+* AWS
+* Microsoft Azure
+* Docker
+* CI/CD
+* GitHub Actions
+* Terraform
+* Infrastructure as Code
+* Linux
+* Nginx
+* Cloud Infrastructure
+* Monitoring & Observability
+* Virtualization
+
+### 🏢 Digital Platforms & Enterprise Systems
+
+Experience designing technology solutions across:
+
+* E-Commerce
+* FinTech
+* Enterprise Software
+* Business Automation
+* Digital Marketplaces
+* Hospitality Technology
+* Education Technology
+* Procurement & Tender Technology
+* AI-powered Business Platforms
+* Digital Transformation
+
+---
+
+# ⚙️ Technology Stack
+
+### Programming Languages
+
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `SQL` · `Dart`
+
+### Web Frontend
+
+`React` · `Next.js` · `Vite` · `Tailwind CSS`
+
+### Mobile
+
+`Flutter` · `Dart`
 
 ### Backend
-Node.js · NestJS · FastAPI · Django · Laravel
 
-### Databases
-PostgreSQL · MySQL · MongoDB · Redis
+`FastAPI` · `Node.js` · `Express.js` · `NestJS` · `Django` · `Laravel`
+
+### Databases & Storage
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
+
+### AI / Machine Learning / Data
+
+`LLMs` · `AI Agents` · `RAG` · `PyTorch` · `OpenCV` · `Pandas` · `NumPy` · `Hugging Face` · `Vector Databases`
 
 ### Cloud & DevOps
-AWS · Azure · Docker · GitHub Actions · Nginx · Linux
 
-### Architecture
-REST APIs · GraphQL · Microservices · Event-Driven Systems
-· JWT/OAuth · AI Agent Architecture
+`AWS` · `Azure` · `Docker` · `Terraform` · `GitHub Actions` · `Linux` · `Nginx` · `VMware` · `Cloudflare`
 
-### AI / Data
-LLMs · AI Agents · RAG · Machine Learning · PyTorch
-· OpenCV · Pandas · NumPy · Vector Databases
+### Architecture & Engineering
+
+`REST APIs` · `GraphQL` · `Microservices` · `Event-Driven Architecture` · `Distributed Systems` · `JWT/OAuth` · `API Integration` · `AI Agent Architecture`
 
 ---
 
-## 🌍 What I Build
+# 🏗️ Engineering Focus
 
-I am interested in building technology at the intersection of:
+I am particularly interested in building modern systems that combine:
 
-**AI + Software Engineering + Business + Digital Infrastructure**
+```text
+                Artificial Intelligence
+                         +
+                 Software Engineering
+                         +
+                    Web & Mobile
+                         +
+                    Cloud & DevOps
+                         +
+                  Business Automation
+```
 
-My long-term goal is to contribute to the development of scalable digital
-systems that create economic and technological opportunities across Africa
-and the global market.
+My current technical focus includes:
 
----
-
-## 📈 Current Focus
-
-- Building AI-powered software systems
-- Designing scalable AI agent architectures
-- Developing digital commerce platforms
-- Exploring AI-driven business automation
-- Cloud-native application architecture
-- Digital transformation for emerging markets
-
----
-
-## 🤝 Open To
-
-- International Software Engineering Opportunities
-- AI / Machine Learning Projects
-- Open-Source Collaboration
-- International Innovation Competitions
-- Research & Technology Projects
-- Startups & Entrepreneurship
-- Remote and Relocation Opportunities
+* AI-native software architecture
+* Multi-agent AI systems
+* AI-powered enterprise automation
+* Full-stack application development
+* Cross-platform mobile applications
+* Scalable backend systems
+* Distributed architectures
+* Cloud-native applications
+* Intelligent digital platforms
+* AI + Commerce
+* AI + Business Operations
+* Digital transformation
 
 ---
 
-## 📫 Connect With Me
+# 🌍 Technology for Africa & the Global Market
 
-**Email:** kidusjob@gmail.com
-**Email:** kiduswisdom77@gmail.com
+I am passionate about applying modern software engineering and artificial intelligence to solve **real-world problems in Africa, emerging markets, and the global technology ecosystem**.
+
+I believe the next generation of digital products will increasingly combine:
+
+> **Software + AI + Data + Cloud + Automation**
+
+My long-term goal is to contribute to and build technology that creates **economic opportunities, strengthens digital infrastructure, and makes advanced technology more accessible to businesses and communities.**
+
+---
+
+# 🔐 Professional & Product Work
+
+A significant portion of my professional and product-development work involves **private, commercial, proprietary, or early-stage systems** and therefore cannot be publicly disclosed.
+
+Where appropriate, I can discuss:
+
+* Technical architecture
+* Engineering decisions
+* System design
+* AI architecture
+* Development methodologies
+* Cloud infrastructure
+* DevOps practices
+* Technical challenges and solutions
+* Demonstrations of relevant work
+
+---
+
+# 🚀 Open To Opportunities
+
+I am open to international opportunities involving:
+
+### Engineering
+
+* Senior Software Engineer
+* Lead Software Engineer
+* Staff Software Engineer
+* Full-Stack Engineer
+* Backend Engineer
+* AI Engineer
+* Mobile Engineer
+* Cloud Engineer
+* DevOps / Platform Engineer
+
+### AI & Research
+
+* AI Engineering
+* Applied AI
+* AI Systems Architecture
+* AI Agents
+* Machine Learning
+* Computer Vision
+* AI Research & Development
+* Intelligent Automation
+
+### Collaboration
+
+* International Technology Projects
+* Research Projects
+* Open-Source Collaboration
+* Innovation Competitions
+* Technology Startups
+* Entrepreneurship
+* Technical Partnerships
+
+**Remote · International · Relocation**
+
+---
+
+# 📈 Continuous Learning
+
+I continuously explore and develop expertise in:
+
+* Artificial Intelligence
+* Generative AI
+* AI Agents
+* Distributed Systems
+* Cloud Architecture
+* DevOps
+* Software Architecture
+* Emerging Technologies
+* Digital Transformation
+
+I believe strong engineering is not only about knowing technologies, but about **understanding problems, designing the right systems, and continuously learning better ways to solve them.**
+
+---
+
+# 📫 Connect With Me
+
+**Email:** [kidusjob@gmail.com](mailto:kidusjob@gmail.com)
 
 **GitHub:** https://github.com/kiduswisdom77
 
 ---
 
-> Building technology that moves ideas from concept to reality.
+## 💡 Philosophy
+
+> **Wisdom leads to Mindset. Mindset is everything.**
+
+> **Building technology that moves ideas from concept to reality.**
